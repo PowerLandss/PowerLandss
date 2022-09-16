@@ -55,15 +55,15 @@
       </table>
     </td>
     <td align="center">
-      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=Bryson69&show_icons=true&count_private=true&hide_border=true" />
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=PowerLandss&show_icons=true&count_private=true&hide_border=true" />
     </td>
   </tr>
   <tr>
           <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryson69&hide_border=true&layout=compact">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerLandss&hide_border=true&layout=compact">
           </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Bryson69&hide_border=true">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=PowerLandss&hide_border=true">
     </td>
   </tr>
 </table>
@@ -87,10 +87,3 @@
 <br /> -->
 
 ----
-<div align="center">
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-
-</div>
