@@ -48,7 +48,7 @@
         <tr>
           <td align="center">
             <a href="https://github.com/PowerLandss">
-              <img src="https://mineleak.pro/data/avatars/o/5/5058.jpg?1660503230" />
+              <img src="https://sun9-77.userapi.com/impg/OSP8mjx9R-uK_hQ7a044gd7aMo3qOTZbgIXk2w/TPe-C8t-Pvc.jpg?size=187x167&quality=96&sign=e5706c616a3333a8818bfc4f1d8b69ec&type=album" />
             </a>
           </td>
         </tr>
