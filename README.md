@@ -4,9 +4,10 @@
 
 
 - 📧 Контакт на почту: powerlandss@vk.com
+- 📧 ВКонтакте: vk.com/powerlands
   
 
-[<img align="left" alt="codeSTACKr | VK" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />] https://vk.com/powerlands[vk]
+<img align="left" alt="codeSTACKr | VK" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" /> https://vk.com/powerlands
 <br/>
 ## 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
