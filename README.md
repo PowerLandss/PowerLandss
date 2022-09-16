@@ -1,10 +1,5 @@
 <!-- ### Hi there 😄   -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/62892010/149345942-39e9fd17-7116-4fc0-be26-b24978ae4f3c.png" align="center" style="width: 100%" />
-<!-- <img src="https://user-images.githubusercontent.com/62892010/118963671-58f6a680-b96f-11eb-8b64-1cce9896f270.jpg" align="center" style="width: 100%" /> -->
-</div> 
-<br/> 
-<img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/> 
+
   
 
 <!-- ### <div align="center">Diligent, Creative, technical & design-savvy Full Stack Developer. Excited to blend graphic design experience with hands-on technical training in a junior-level software engineering role. Eager to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach.</div>  
