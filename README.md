@@ -24,18 +24,9 @@
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/bryson-m-59250b1b5/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://vk.com/powerlands" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/2048px-VK_Compact_Logo.svg.png" />
 </a>
-<a href="https://codepen.io/Bryson99/pens/public" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/Bryson_M" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>
-<a href="https://guide101.medium.com/" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
 </div>  -->
 
 
@@ -43,7 +34,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <strong>  I'm proud to be part of EddieHub Community </strong><br>
+      <strong>  Power_Lands </strong><br>
       <table>
         <tr>
           <td align="center">
