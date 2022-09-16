@@ -1,34 +1,11 @@
 <!-- ### Hi there 😄   -->
 
-  
-
-<!-- ### <div align="center">Diligent, Creative, technical & design-savvy Full Stack Developer. Excited to blend graphic design experience with hands-on technical training in a junior-level software engineering role. Eager to build innovative and cutting edge business solutions for the impressive suite of clients within its global reach.</div>  
-   -->
-
 <br/>  
 
 
-- 🌱 I’m currently building applications with React, Tailwind Css or Styled Components.
-
-
-- 🔭 Also working on creating API's with DjangoRestFrameWork.
+- 📧 Контакт на почту: powerlandss@vk.com
   
 
-- ❓ Ask me about anything related to Frontend technologies.
-  
-
-- ⚡ Fun fact: I use tabs over spaces.
-  
-
-- 📧 Feel free to contact me: brysonmundia@gmail.com
-  
-
-<br/>  
-
-## About me
-<p align="center">Creative & technical Frontend Developer. Excited to blend UI/UX design while building user expiriences with Frontend Technologies.</p>
-
-  
 <br/>  
 
 
