@@ -47,7 +47,7 @@
       <table>
         <tr>
           <td align="center">
-            <a href="https://github.com/EddieHubCommunity">
+            <a href="https://github.com/PowerLandss">
               <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
             </a>
           </td>
